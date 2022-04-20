@@ -1,1 +1,1 @@
-# Birthday_Remainder_App
+# This is a tourist application
